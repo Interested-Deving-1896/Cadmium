@@ -53,7 +53,33 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+[@Maccraft123](https://github.com/Maccraft123) - 700 commits  
+[@WizzardSK](https://github.com/WizzardSK) - 35 commits  
+[@kinkinkijkin](https://github.com/kinkinkijkin) - 26 commits  
+[@colin-williams](https://github.com/colin-williams) - 16 commits  
+[@ankhhikes](https://github.com/ankhhikes) - 7 commits  
+[@nicholascw](https://github.com/nicholascw) - 6 commits  
+[@chinh4](https://github.com/chinh4) - 5 commits  
+[@LoganMD](https://github.com/LoganMD) - 4 commits  
+[@r3dlobst3r](https://github.com/r3dlobst3r) - 4 commits  
+[@mattst88](https://github.com/mattst88) - 4 commits  
+[@claydoh](https://github.com/claydoh) - 3 commits  
+[@FlameKat53](https://github.com/FlameKat53) - 2 commits  
+[@rvstry](https://github.com/rvstry) - 2 commits  
+[@hilmarm](https://github.com/hilmarm) - 2 commits  
+[@sonictruth](https://github.com/sonictruth) - 1 commit  
+[@colemancda](https://github.com/colemancda) - 1 commit  
+[@anthonyryan1](https://github.com/anthonyryan1) - 1 commit  
+[@ArchivalLegion](https://github.com/ArchivalLegion) - 1 commit  
+[@dylangerdaly](https://github.com/dylangerdaly) - 1 commit  
+[@elementgreen](https://github.com/elementgreen) - 1 commit  
+[@ethanjoseph1](https://github.com/ethanjoseph1) - 1 commit  
+[@gled-rs](https://github.com/gled-rs) - 1 commit  
+[@Interested-Deving-1896](https://github.com/Interested-Deving-1896) - 1 commit  
+[@L-as](https://github.com/L-as) - 1 commit  
+[@itsbirdseed](https://github.com/itsbirdseed) - 1 commit  
+
+*Note: This repository is a mirror. Please refer to the upstream source for additional contributions.*
 <!-- AI:end:contributors -->
 
 ## Origins
